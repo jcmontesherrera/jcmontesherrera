@@ -7,7 +7,7 @@ Marine Biologist
 Exploring the convergence of marine biology, remote sensing, and ethnobotany.
 
 * 🌍  I'm based in Hobart, Australia
-* 🧠  I'm learning Python, Photogrammetry, Imaging Spectroscopy
+* 🧠  I'm learning Python, Photogrammetry, and Imaging Spectroscopy
 * 🤝  I'm open to collaborating on Biodiversity, Remote Sensing, Conservation.
 * ⚡  I can juggle and DJ.
 
