@@ -1,4 +1,3 @@
-<[![MasterHead](image.jpg)](https://github.com/jcmontesherrera)>
 Hi 👋 My name is Juan C. Montes-Herrera
 =======================================
 
