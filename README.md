@@ -9,7 +9,7 @@ Exploring the convergence of marine biology, remote sensing, and ethnobotany.
 * 🌍  I'm based in Hobart, Australia
 * 🧠  I'm learning Python, Photogrammetry, and Imaging Spectroscopy
 * 🤝  I'm open to collaborating on Biodiversity, Remote Sensing, Conservation.
-* ⚡  I can juggle and DJ.
+* ⚡  I enjoy photography, juggling and DJing.
 
 <a href="https://www.twitter.com/jcmontesherrera" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jcmontesherrera?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
