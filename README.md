@@ -12,6 +12,15 @@ I'm a **PhD Student** at the Institute for Marine and Antarctic Studies (IMAS) a
 * 🤝  I'm open to collaborating on Biodiversity, Remote Sensing, Conservation.
 * ⚡  I enjoy photography, juggling and DJing.
 
+## Current projects
+- Acquisition of structural complexity metrics from Antarctic benthic communities with underwater photogrammetry 🐚
+- Applications of Imaging Spectroscopy (Hyperspectral Imaging) to characterize Antarctic Coralline Algae 🌸🧠
+- Hyperspectral imaging to classify marine beach debris ♻
+- Code development for F.A.I.R. imaging analysis in marine biology 👨‍💻
+
+### Contact
+- juancarlos.montesherrera@utas.edu.au
+
 ### Programming Languages
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
