@@ -4,6 +4,8 @@ Hi 👋 My name is Juan C. Montes-Herrera
 Marine Biologist, Remote Sensing, Ethnobotany
 ----------------
  
+I'm a **PhD Student** at the Institute for Marine and Antarctic Studies (IMAS) at the University of Tasmania (Tasmania, Australia). I have a **BSci in Marine Biology** from the Autonomous University of Baja California Sur (BCS, Mexico).
+ 
 * 🗺   I'm from Mexico, based in Hobart, Australia
 * 🧠  I'm learning Python, Photogrammetry, and Imaging Spectroscopy
 * 🤝  I'm open to collaborating on Biodiversity, Remote Sensing, Conservation.
