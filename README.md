@@ -1,4 +1,4 @@
-[![MasterHead]([https://static01.nyt.com/images/2019/03/27/arts/26VANGOGH-BRITAIN-1/merlin_152403333_3552f80f-9675-4951-bc32-0b8cbdbfa090-superJumbo.jpg)]([gitwebsite link](https://github.com/jcmontesherrera)
+[![MasterHead]([https://static01.nyt.com/images/2019/03/27/arts/26VANGOGH-BRITAIN-1/merlin_152403333_3552f80f-9675-4951-bc32-0b8cbdbfa090-superJumbo.jpg)](https://github.com/jcmontesherrera)
 Hi 👋 My name is Juan C. Montes-Herrera
 =======================================
 
