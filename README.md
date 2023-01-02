@@ -9,10 +9,6 @@ Marine Biologist, Remote Sensing, Ethnobotany
 * 🤝  I'm open to collaborating on Biodiversity, Remote Sensing, Conservation.
 * ⚡  I enjoy photography, juggling and DJing.
 
-<a href="https://www.twitter.com/jcmontesherrera" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/jcmontesherrera?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 
