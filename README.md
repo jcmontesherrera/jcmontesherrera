@@ -1,12 +1,10 @@
 Hi 👋 My name is Juan C. Montes-Herrera
 =======================================
 
-Marine Biologist
+Marine Biologist, Remote Sensing, Ethnobotany
 ----------------
 
-Exploring the convergence of marine biology, remote sensing, and ethnobotany.
-
-* 🌍  I'm based in Hobart, Australia
+* 🗺  I'm from Mexico, based in Hobart, Australia
 * 🧠  I'm learning Python, Photogrammetry, and Imaging Spectroscopy
 * 🤝  I'm open to collaborating on Biodiversity, Remote Sensing, Conservation.
 * ⚡  I enjoy photography, juggling and DJing.
