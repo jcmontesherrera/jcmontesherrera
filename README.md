@@ -1,4 +1,4 @@
-Hi 👋 My name is Juan C. Montes-Herrera
+Hi 👋 my name is Juan C. Montes-Herrera
 =======================================
 
 Marine Biologist, Remote Sensing, Ethnobotany
