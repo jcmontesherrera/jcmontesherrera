@@ -4,7 +4,7 @@ Hi 👋 my name is Juan C. Montes-Herrera
 Marine Biologist, Remote Sensing, Ethnobotany
 ----------------
  
-I'm a **PhD Student** at the Institute for Marine and Antarctic Studies (IMAS) at the University of Tasmania (Tasmania, Australia). I have a **BSci in Marine Biology** from the Autonomous University of Baja California Sur (BCS, Mexico).
+I'm a **PhD Student** at the Institute for Marine and Antarctic Studies (IMAS) at the University of Tasmania (Tasmania, Australia). I have a **BSci in Marine Biology** from the Autonomous University of Baja California Sur (BCS, Mexico). Co-founded the **DIY-bio laboratory** Laboratorios Cardon (La Paz, BCS).
  
 * 🗺  I'm based in Hobart, Australia
 * 🌊  Studying marine ecosystems in general, 🧠 coralline algae in particular.
@@ -27,7 +27,7 @@ I'm a **PhD Student** at the Institute for Marine and Antarctic Studies (IMAS) a
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> 
  
 ### Software
- ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />)
  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
  ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
