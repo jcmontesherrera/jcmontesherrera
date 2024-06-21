@@ -4,14 +4,14 @@ Hi my name is Juan C. Montes-Herrera
 Marine Biologist, Remote Sensing, Ethnobotany
 ----------------
  
-I'm a **PhD Student** at the Institute for Marine and Antarctic Studies (IMAS) at the University of Tasmania (Tasmania, Australia). I have a **BSci in Marine Biology** from the Autonomous University of Baja California Sur (BCS, Mexico). Co-founded the **DIY-bio laboratory** Laboratorios Cardon (La Paz, BCS).
+I received my PhD in 2023 from the Institute for Marine and Antarctic Studies (IMAS) at the University of Tasmania in Hobart, Australia. 
+I have a **BSci in Marine Biology** from the Autonomous University of Baja California Sur (BCS, Mexico). Co-founded the **DIY-bio laboratory** Laboratorios Cardon (La Paz, BCS).
  
 - 🗺  I'm based in Hobart, Australia
 - :mexico: From Mexico
-- 🌊  Studying marine ecosystems in general, 🧠 coralline algae in particular.
+- 🌊  Studying ecosystem mapping in general, 🧠 coralline algae in particular.
 - 👨🏽‍💻  Learning Python, Photogrammetry, and Imaging Spectroscopy
 - 🤝  I'm open to collaborating on Biodiversity, Remote Sensing, Conservation.
-- ⚡  I enjoy photography, juggling and <a href="https://soundcloud.com/jcmontesherrera">DJing</a>.
  
 
 ## Current projects
