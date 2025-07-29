@@ -1,6 +1,6 @@
 # Juan Carlos Montes Herrera, Ph.D.
-## Biology | Earth & Ocean Remote Sensing | Ethnobotany
- 
+**Biology | Earth & Ocean Remote Sensing | Ethnobotany**
+
 - 🗺  Based in Hobart, Australia
 - :mexico: From Mexico
 - Python, Photogrammetry, Multispectral Imaging, LiDAR, and Imaging Spectroscopy
