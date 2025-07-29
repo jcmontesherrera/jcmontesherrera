@@ -1,5 +1,4 @@
 # Juan Carlos Montes Herrera, Ph.D.
----
 Biology | Earth & Ocean Remote Sensing | Ethnobotany
  
 - 🗺  Based in Hobart, Australia
